@@ -1,0 +1,2 @@
+# helloIME
+Chinese IME test
